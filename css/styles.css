@@ -1,0 +1,183 @@
+.custom-image {
+    margin-left: 560px;
+}
+.custom-image2{
+    margin-right: 560px;
+}
+.custom-image3{
+    margin-right: 2px;
+}
+
+#move{
+    margin-left: 150px;
+    margin-right: 130px;
+}
+
+.h2{
+    font-size: 40px; 
+    margin-bottom: 100px;
+    text-align: center; 
+    margin-top: 100px;
+}
+#card-move2{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+    
+}
+#font1{
+    font-style: italic;
+    color: white;
+}
+.card-body{
+    background-color: #BC7FCD;
+    color: white;
+}
+.testi1{
+    
+    object-fit: cover;
+   
+   background-color: #BC7FCD;
+}
+.card-img-top1{
+    background-color: #BC7FCD;
+}
+.testi2{
+   
+    object-fit: cover;
+   
+   background-color: #BC7FCD;
+}
+
+.test3{
+    object-fit: cover;
+   
+   background-color: #BC7FCD;
+}
+.test4{
+    object-fit: cover;
+   
+   background-color: #BC7FCD;
+}
+.test5{
+    object-fit: cover;
+   
+   background-color: #BC7FCD;
+}
+.test6{
+    object-fit: cover;
+   
+   background-color: #BC7FCD;
+}
+
+#font2{
+    font-style: italic;
+    color: white;
+}
+#font3{
+    font-style: italic;
+    color: white;
+}
+#font4{
+    font-style: italic;
+    color: white;
+}
+#font5{
+    font-style: italic;
+    color: white;
+}
+#font6{
+    font-style: italic;
+    color: white;
+}
+#test1{
+    color: white;
+    font-style: italic;
+}
+#test2{
+    color: white;
+    font-style: italic;
+}
+#card1{
+    display: flex;
+    justify-content: space-between;
+}
+.myCard{
+    margin: 0 5em 0 5em
+}
+.card-img-top{
+    width: 20rem;
+    margin-top: 90px;
+}
+h5{
+    font-style: italic;
+    font-size: large;
+    color: white;
+}
+
+p{
+    font-style: italic;
+    color: white;
+}
+#pic1{
+    height: 60px;
+    margin-left: 60px;
+}
+p{
+    color: white;
+    font-style: italic;
+}
+#pic2{
+    height: 100px;
+    margin-left: 50px;
+}
+#pic3{
+    height: 70px;
+    margin-left: 70px;
+}
+#pic4{
+    height: 100px;
+    margin-left: 60px;
+}
+#pic5{
+    height: 1px;
+    margin-left: 60px;
+}
+#pic5{
+    height: 100px;
+    margin-left: 60px;
+}
+#pic6{
+    height: 1px;
+}
+#forms{
+    font-style: italic;
+}
+button{
+    background: #BC7FCD;
+}
+#back{
+    background-size: cover;
+}
+.thebuttons{
+    display: flex;
+    justify-content: space-around;
+  }
+  .btn{
+    background-color: #BC7FCD;
+    color: #000000;
+  }
+h2{
+    font-size: 40px; 
+    margin-top:20px;
+    margin-bottom: 30px;
+}
+#copy{
+    margin-top: 7px; 
+    align-content: center;
+    color: black;
+}
+@media screen and (max-width: 600px)
+{
+
+}
